@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'HeliosExtW';
+  font-family: 'Satoshi';
   src: url('resources/Satoshi-Medium.otf') format('opentype');
   font-display: swap;
 }
@@ -26,7 +26,7 @@ html { scroll-behavior: smooth; font-size: 16px; }
   --border:  rgba(196,154,108,0.15);
   --border2: rgba(196,154,108,0.32);
   --serif:   'Perandory','Cormorant Garamond',Georgia,serif;
-  --sans:    'HeliosExtW','Jost','Futura',sans-serif;
+  --sans:    'Satoshi','Jost','Futura',sans-serif;
   --ease:    cubic-bezier(0.16,1,0.3,1);
 }
 
