@@ -1,10 +1,6 @@
-/* ── FONT DECLARATIONS ──
-   Replace src with your actual licensed .woff2 files when available.
-   e.g. src: url('fonts/HeliosExtendedWeb.woff2') format('woff2');
-*/
 @font-face {
   font-family: 'HeliosExtW';
-  src: url('resources/Helios_Extended.otf') format('opentype');
+  src: url('resources/Satoshi-Medium.otf') format('opentype');
   font-display: swap;
 }
 @font-face {
